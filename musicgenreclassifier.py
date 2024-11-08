@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """MusicGenreClassifier
 
 **CPEN 355 Project - Music Genre Classifier**
